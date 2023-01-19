@@ -1,0 +1,1 @@
+CREATE table Employee( EmpId BIGINT, EmpName TEXT(20), EmpSal FLOAT,EmpDOb DATE,EmpLoc TEXT(20));
